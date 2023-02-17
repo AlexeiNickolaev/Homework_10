@@ -3,7 +3,7 @@ from pycoingecko import CoinGeckoAPI
 from buttons import cripto_list
 from datetime import datetime
 
-bot = Bot('6231134708:AAFcHa4QfZBtpaVetAWVTXG-nyUahx5nxdk')
+bot = Bot('Token')
 dp = Dispatcher(bot)
 cg = CoinGeckoAPI()
 
